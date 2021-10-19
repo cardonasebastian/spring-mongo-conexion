@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: chnn-mongo-example
+  config:
+    name: chnn-mongo-example
